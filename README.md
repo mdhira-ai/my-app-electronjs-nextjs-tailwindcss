@@ -5,20 +5,15 @@
 ### Create an App
 
 ```
-# with npx
-$ npx create-nextron-app my-app --example ipc-communication
+# git clone - https://github.com/mdhira-ai/my-app-electronjs-nextjs-tailwindcss.git
 
-# with yarn
-$ yarn create nextron-app my-app --example ipc-communication
 
-# with pnpx
-$ pnpx create-nextron-app my-app --example ipc-communication
 ```
 
 ### Install Dependencies
 
 ```
-$ cd my-app
+$ cd my-app-electronjs-nextjs-tailwindcss
 
 # using yarn or npm
 $ yarn (or `npm install`)
